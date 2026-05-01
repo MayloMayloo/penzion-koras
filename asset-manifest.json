@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/penzion-pod-smrekom/static/css/main.a2f55ea5.css",
+    "main.js": "/penzion-pod-smrekom/static/js/main.67a81580.js",
+    "index.html": "/penzion-pod-smrekom/index.html",
+    "main.a2f55ea5.css.map": "/penzion-pod-smrekom/static/css/main.a2f55ea5.css.map",
+    "main.67a81580.js.map": "/penzion-pod-smrekom/static/js/main.67a81580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f55ea5.css",
+    "static/js/main.67a81580.js"
+  ]
+}
